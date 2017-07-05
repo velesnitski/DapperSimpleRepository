@@ -1,2 +1,2 @@
 # DapperSimpleRepository
-Dapper repository for the great justice. Based on Dapper.SimpleCRUD and SQLinq.Dapper. SimpleInjector required.
+Repository pattern implementation with Linq support and fancy syntax.
