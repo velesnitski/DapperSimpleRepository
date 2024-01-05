@@ -1,7 +1,8 @@
 repo_name: velesnitski/DapperSimpleRepository
 report_id: e15ac9699ac3375827bf687f8b789b63
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-20T06:25:43+00:00'
+timestamp: '2024-01-05T08:36:53+00:00'
 requested_by: velesnitski
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: Infrastructure.Repository/Infrastructure.Repository.csproj
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/Infrastructure.Repository.csproj
   detection_source: Infrastructure.Repository/Infrastructure.Repository.csproj
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -53,7 +56,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
-  detection_source_url: Infrastructure.Repository/packages.config
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -74,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for Text Editors
   image_url: https://img.stackshare.io/service/4872/9YgQwLvn_400x400.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -98,6 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/9261/default_8aaf0308b57ffe3c53a570f2ac69d9a831f58f93.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -110,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/DapperSimpleRepository.sln
   detection_source: DapperSimpleRepository.sln
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -124,7 +132,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14737/default_812714b4f0197fb6dadd1838be7b78ebf2669db4.png
-  detection_source_url: Infrastructure.Repository/packages.config
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -138,7 +146,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13425/default_12ffcfadaf9c605d855c3901f9dfe0c11282537c.png
-  detection_source_url: Infrastructure.Repository/packages.config
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
@@ -152,7 +160,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13014/default_e02156d6ec171e5af5c76a9ed213ad4b70bd92db.png
-  detection_source_url: Infrastructure.Repository/packages.config
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
   detection_source: Infrastructure.Repository/packages.config
   last_updated_by: velesnitski
   last_updated_on: 2016-06-06 16:26:11.000000000 Z
