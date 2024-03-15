@@ -1,0 +1,166 @@
+repo_name: velesnitski/DapperSimpleRepository
+report_id: e15ac9699ac3375827bf687f8b789b63
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:50:44+00:00'
+requested_by: velesnitski
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '4.5'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/Infrastructure.Repository.csproj
+  detection_source: Infrastructure.Repository/Infrastructure.Repository.csproj
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: Dapper
+  description: A simple object mapper for .Net
+  website_url: https://stackexchange.github.io/Dapper/
+  version: '1.42'
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: PostSharp
+  description: Allows developers to eradicate boilerplate by offloading repeating
+    work from humans to machines
+  website_url: https://www.postsharp.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for Text Editors
+  image_url: https://img.stackshare.io/service/4872/9YgQwLvn_400x400.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: Simple Injector
+  description: An easy, flexible, and fast Dependency Injection library
+  website_url: https://simpleinjector.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/9261/default_8aaf0308b57ffe3c53a570f2ac69d9a831f58f93.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/DapperSimpleRepository.sln
+  detection_source: DapperSimpleRepository.sln
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: Dapper.SimpleCRUD
+  description: Simple Get, GetList, GetListPaged, Insert, Update, Delete, DeleteList,
+    and RecordCount extensions for Dapper
+  package_url: https://www.nuget.org/Dapper.SimpleCRUD
+  version: 1.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14737/default_812714b4f0197fb6dadd1838be7b78ebf2669db4.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: MiniProfiler
+  description: Lightweight mini-profiler
+  package_url: https://www.nuget.org/MiniProfiler
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13425/default_12ffcfadaf9c605d855c3901f9dfe0c11282537c.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
+- name: SimpleInjector
+  description: Simple Injector is an easy
+  package_url: https://www.nuget.org/SimpleInjector
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13014/default_e02156d6ec171e5af5c76a9ed213ad4b70bd92db.png
+  detection_source_url: https://github.com/velesnitski/DapperSimpleRepository/blob/master/Infrastructure.Repository/packages.config
+  detection_source: Infrastructure.Repository/packages.config
+  last_updated_by: velesnitski
+  last_updated_on: 2016-06-06 16:26:11.000000000 Z
